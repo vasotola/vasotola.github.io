@@ -3,6 +3,8 @@ title:  "Members of the team!"
 layout: default
 ---
 
+<h1>Members of the team!</h1>
+
 <h3>Alex Sotola, PI</h3>
 
 <img src="assets/IMG_0332.jpg" align="right" alt="Mimulus guttatus growing wild" width="300px"/>
