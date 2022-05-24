@@ -1,4 +1,3 @@
-# Members of the team!
 
 #### Alex Sotola, PI
 
