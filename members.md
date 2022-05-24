@@ -1,6 +1,6 @@
 ---
 title:  "Members of the team!"
-layout: default
+layout: page
 ---
 
 <h1>Members of the team!</h1>
