@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "members.html", title: "Lab Members"}
   - {file: "publications.html", title: "Publications"}
   - {file: "pictures.html", title: "Pictures"}
-  - {file: "diversity.html", title: "Diversity and Inclusion"}
+  - {file: "diversity.html", title: "Diversity/Inclusion"}
   - {file: "contact.html", title: "Contact"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
