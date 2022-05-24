@@ -3,8 +3,6 @@ title:  "Members of the team!"
 layout: page
 ---
 
-<h1>Members of the team!</h1>
-
 <h3>Alex Sotola, PI</h3>
 
 <img src="assets/IMG_0332.jpg" width="200" height="400">
