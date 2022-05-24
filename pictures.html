@@ -6,12 +6,26 @@ title: "Pictures from the lab/field!"
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/IMG_0339.jpg" alt="Standing in sea of <em>Mimulus</em>" style="width:50%">
+    <img src="/assets/img/IMG_0339.jpg" alt="Standing in sea of <em>Mimulus</em>" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/img/IMG_0300.jpg" alt="Sea of <em>Mimulus</em>" style="width:50%">
+    <img src="/assets/img/IMG_0300.jpg" alt="Sea of <em>Mimulus</em>" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/img/IMG_0296.jpg" alt="<em>Mimulus</em> and a butterfly" style="width:50%">
+    <img src="/assets/img/IMG_0296.jpg" alt="<em>Mimulus</em> and a butterfly" style="width:100%">
   </div>
 </div>
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
