@@ -1,6 +1,6 @@
 # Members of the team!
 
-#### Alex Sotola, PR
+#### Alex Sotola, PI
 
 I am broadly trained as both a population geneticist and ecologist, with a strong background in bioinformatics and statistics. 
 I work to understanding the myriad of genetic, ecological, and demographic factors that influence reproductive isolation (speciation). 
