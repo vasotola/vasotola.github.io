@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "members.html", title: "Lab Members"}
   - {file: "publications.html", title: "Publications"}
   - {file: "pictures.html", title: "Pictures"}
+  - {file: "courses.html", title: "Course Info"}
   - {file: "diversity.html", title: "Diversity"}
   - {file: "contact.html", title: "Contact"}
   
