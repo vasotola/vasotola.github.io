@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "research.html", title: "Research", icon: <i class="fa-regular fa-fish-fins"></i>}
+  - {file: "research.html", title: "Research"}
   - {file: "members.html", title: "Lab Members"}
   - {file: "publications.html", title: "Publications"}
   - {file: "pictures.html", title: "Pictures"}
